@@ -1,5 +1,3 @@
-package MidSemPracticeQyestion;
-
 public class ques_04_ha_01 {
     public static void main(String[] args) {
         int sumsq = 0, sqsum = 0, sum = 0;
