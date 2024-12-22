@@ -1,5 +1,3 @@
-package MidSemPracticeQyestion;
-
 import java.util.Scanner;
 
 public class ques_04_01 {
